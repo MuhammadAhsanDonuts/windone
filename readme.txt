@@ -1,1 +1,0 @@
-This is the project for windone-portfolio in react app.
